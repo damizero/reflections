@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git Init
+Git Status
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+it's an intermediate level between working dir and repository. It allows to double check and commit only after
+It allows also to commit more logical changes together
