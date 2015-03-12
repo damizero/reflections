@@ -1,1 +1,8 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Yes, I'd like to have flexibility. If then project is too huge, and therefore time short, then let's rely on GIT, eventually conflicts 
+will be resolved manually
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork clones a repository in github to my profile
+clone actually clones a repository from github to local (or from local to local)
+branches is a parallel series of commit

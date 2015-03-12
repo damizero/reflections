@@ -6,3 +6,18 @@ Git Status
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 it's an intermediate level between working dir and repository. It allows to double check and commit only after
 It allows also to commit more logical changes together
+
+How can you use the staging area to make sure you have one commit per logical change?
+put in staging area only one logical change at the time
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When we need to have parallel versions, for example new features or alternatives
+
+How do the diagrams help you visualize the branch structure?
+It is a fast and easy way to see at a glance all the branches, how they relate, if there are unreachable nodes, etc...
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+we make a merged copy that includes both changes\versions.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Time, when there's no value added in doing manually, when there's the need to check many code (better GIT in this case)
